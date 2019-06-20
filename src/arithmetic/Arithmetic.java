@@ -16,7 +16,7 @@ import java.util.Scanner;
  */
 public class Arithmetic 
 {
-
+  
     /**
      * @param args the command line arguments
      */
